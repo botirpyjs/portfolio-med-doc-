@@ -112,8 +112,9 @@ svg{
 .home_title{
     padding: 40px;
     padding-top: 0;
+    font-size: 25px;
     padding-bottom: 10px;
-    font-family: "Bookshelf Symbol 7";
+    font-family: monospace;
     text-align: center;
     border-bottom: #0c5460 1px solid;
 }
@@ -123,7 +124,7 @@ svg{
     padding-top: 0;
     text-align: center;
     font-weight: bold;
-    font-style: oblique;
+    font-style: italic;
 }
 
 /* About */
@@ -164,7 +165,7 @@ svg{
     padding: 40px;
     padding-top: 0;
     padding-bottom: 10px;
-    font-family: "Bookshelf Symbol 7";
+    font-family: monospace;
     text-align: center;
     border-bottom: #0c5460 1px solid;
 }
@@ -201,7 +202,7 @@ svg{
 .team_title{
     width: 100%;
     padding-bottom: 5px;
-    font-family: "Bookshelf Symbol 7";
+    font-family: monospace;
     text-align: center;
     border-bottom: #0c5460 1px solid;
 }
@@ -269,7 +270,7 @@ svg{
 .testim_title{
     width: 100%;
     padding-bottom: 5px;
-    font-family: "Bookshelf Symbol 7";
+    font-family: monospace;
     text-align: center;
     border-bottom: #0c5460 1px solid;
 }
